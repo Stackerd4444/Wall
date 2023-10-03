@@ -12,6 +12,11 @@
     bottom: 0;
 }
 
+.button-container {
+    position: relative;
+  z-index: 2;
+}
+
 .colors {
 position: fixed;
 }
